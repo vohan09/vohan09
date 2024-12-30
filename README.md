@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vohan09
-- 👀 I’m interested in study English (I'm from Vietnamese)
+- 👀 I’m interested in studying English (I'm from Vietnamese)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
